@@ -1,0 +1,43 @@
+:root {
+    -primary-color: #0a1118;
+    -primary-color-highlight: #233054;
+    -bs-bs-body-bg: #fbf0f6;
+    -bs-body-font-family: 'Montserrat', sans-serif;
+
+
+}
+
+
+
+.header {
+    z-index: 2;
+}
+/*
+* flyout Navigation Bar
+*/
+#navbar {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    background-color: rgb(255,247,231);
+
+
+
+}
+
+/*
+* Custom Container
+*/
+
+.dropdown-nav_closeNavBtn {
+    position: absolute;
+    top: 20px;
+    right: 16px;
+    background-color: rgb(255,255,255,0.6);
+    
+}
+
+/*
+* Hero section
+*/
